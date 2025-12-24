@@ -1,0 +1,24 @@
+# Case 05: Feature Misconfiguration Issue
+**Date:** 26 Dec 2025
+**Platform/Tool:** Example SaaS App
+
+## Issue Summary
+A customer reported that a newly enabled feature was not functioning as expected. Despite following the setup instructions, certain automated notifications were not being triggered.
+
+## Steps Taken
+1. Reviewed the customer’s feature configuration in the admin panel.
+2. Cross-checked setup against standard documentation and best practices.
+3. Identified that a required toggle for notifications was not activated.
+4. Guided the customer to enable the missing toggle and verified other related settings.
+5. Performed a test run of the feature to ensure notifications were triggered correctly.
+6. Confirmed with the customer that the feature was now working as intended.
+
+## Outcome/Resolution
+The feature was fully operational after correcting the misconfiguration. Provided additional documentation to the customer to prevent similar issues in the future. Customer was satisfied with the guidance and resolution.
+
+## Skills Demonstrated
+- Feature troubleshooting and configuration validation
+- Effective customer guidance for SaaS settings
+- Attention to detail in identifying misconfigurations
+- Ensuring customer success and satisfaction
+- Documenting solutions for future reference
