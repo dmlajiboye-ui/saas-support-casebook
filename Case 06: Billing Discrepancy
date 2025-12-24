@@ -1,0 +1,24 @@
+# Case 06: Billing Discrepancy
+**Date:** 27 Dec 2025
+**Platform/Tool:** Example SaaS App
+
+## Issue Summary
+A customer contacted support stating that they were charged twice for their monthly subscription. They requested clarification and a refund for the duplicate charge.
+
+## Steps Taken
+1. Verified the customer’s billing history in the admin portal.  
+2. Confirmed that two transactions were indeed processed for the same billing period.  
+3. Checked payment gateway logs to identify potential processing errors.  
+4. Issued a refund for the duplicate transaction.  
+5. Sent a confirmation email to the customer detailing the refund and the corrected billing amount.  
+6. Monitored the account to ensure no further duplicate charges occurred.  
+
+## Outcome/Resolution
+Customer confirmed the refund was received and expressed satisfaction. Ensured all future billing cycles were accurate and informed the billing team of the incident to prevent recurrence.
+
+## Skills Demonstrated
+- Investigating billing discrepancies  
+- Communicating clearly about financial issues  
+- Processing refunds and handling sensitive transactions  
+- Using admin and payment tools effectively  
+- Proactive follow-up to ensure customer satisfaction
