@@ -1,0 +1,42 @@
+# Case 3: SaaS Platform Login Issue
+
+**Date:** 24 Dec 2025  
+**Client:** ExampleCorp SaaS  
+**Support Type:** Technical Support - Account/Login  
+**Priority:** High  
+**Status:** Resolved  
+
+---
+
+## Problem
+Client reported that multiple users were unable to log into the platform. They received a generic "Invalid credentials" error despite entering correct usernames and passwords.
+
+---
+
+## Investigation
+- Verified the error by creating a test account.
+- Checked authentication logs on the backend.
+- Identified an expired SSL certificate on the authentication server.
+- Noted that session tokens were not being generated correctly due to outdated API calls in the login module.
+
+---
+
+## Actions Taken
+1. Renewed SSL certificate for the authentication server.
+2. Updated API calls in the login module to match current authentication endpoints.
+3. Tested multiple accounts to ensure login success.
+4. Communicated updates to the client and provided instructions to clear browser cache.
+
+---
+
+## Outcome
+- All users able to log in successfully.
+- No further reports of login issues after 24 hours.
+- Follow-up scheduled in 48 hours to ensure stability.
+
+---
+
+## Notes / Learnings
+- Importance of monitoring SSL expiry dates proactively.
+- Implemented automated reminders for certificate renewal.
+- Backend API changes should be tested in staging before deployment to production.
