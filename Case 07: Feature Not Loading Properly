@@ -1,0 +1,25 @@
+# Case 07: Feature Not Loading Properly
+**Date:** 28 Dec 2025
+**Platform/Tool:** Example SaaS App
+
+## Issue Summary
+A customer reported that a key feature within the app was not loading. The page remained blank, preventing them from completing their task.
+
+## Steps Taken
+1. Asked the customer to provide screenshots and the browser they were using.  
+2. Verified the issue by replicating it on the same browser and device type.  
+3. Guided the customer through clearing browser cache and cookies.  
+4. Suggested trying an incognito/private browsing window.  
+5. Escalated the issue to the technical team when the problem persisted.  
+6. Communicated updates to the customer as the technical team investigated.  
+7. Followed up after the fix was deployed to ensure the feature loaded correctly.  
+
+## Outcome/Resolution
+The technical team identified a temporary server-side bug and resolved it. The customer confirmed that the feature was now working properly and expressed appreciation for the prompt support.
+
+## Skills Demonstrated
+- Troubleshooting SaaS feature issues  
+- Communicating effectively during technical escalations  
+- Guiding customers through technical steps remotely  
+- Coordinating with the technical team to resolve issues  
+- Ensuring post-resolution follow-up
