@@ -2,6 +2,9 @@
 **Date:** 24 Dec 2025  
 **Platform/Tool:** Example SaaS App  
 
+## Extended Description
+This case highlights a common issue SaaS support teams encounter: a customer unable to log in due to credential errors. The case demonstrates a structured approach to troubleshooting, including verifying account status, guiding the customer through browser troubleshooting steps, generating password reset links, and ensuring full resolution through follow-up. It shows technical troubleshooting, customer communication, and backend usage—all key skills for SaaS support roles.  
+
 ## Issue Summary
 A customer reported being unable to log into their account despite using the correct credentials. The login page repeatedly returned an error message stating "Invalid credentials."
 
