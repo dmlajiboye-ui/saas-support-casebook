@@ -1,0 +1,27 @@
+# Case 04: Payment Processing Failure
+**Date:** 25 Dec 2025
+**Platform/Tool:** Example SaaS App
+
+## Issue Summary
+A customer reported that their payment was declined despite having sufficient funds. 
+The system returned an error message: "Payment could not be processed. Please try again later."
+
+## Steps Taken
+1. Verified the customer’s payment method in the admin dashboard.
+2. Checked transaction logs to identify the reason for failure; found a timeout error with the payment gateway.
+3. Contacted the payment processor to confirm system status; they reported intermittent connectivity issues.
+4. Guided the customer to retry the payment using an alternative browser and cleared cache.
+5. Processed a manual payment attempt successfully on behalf of the customer.
+6. Followed up to ensure the transaction went through and the customer received confirmation.
+
+## Outcome/Resolution
+Payment was successfully processed, and the customer was able to continue using the platform. 
+Recommended that the customer set up a backup payment method to avoid future interruptions.
+Customer acknowledged and appreciated the prompt resolution.
+
+## Skills Demonstrated
+- Troubleshooting payment gateway errors
+- Using admin tools to verify transactions
+- Effective communication with third-party service providers
+- Guiding customers through alternative solutions
+- Ensuring customer satisfaction with follow-up
